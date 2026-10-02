@@ -1,0 +1,1 @@
+console.log("Ishita Singh Portfolio loaded successfully.");
